@@ -2,9 +2,9 @@
 
 $lang = array();
 
-$lang['first_link'] = "<< Џърва";
-$lang['last_link'] = "Џоследна >>";
-$lang['next_link'] = " Џредишна ";
-$lang['prev_link'] = " ‘ледваща ";
+$lang['first_link'] = "<< РџСЉСЂРІР°";
+$lang['last_link'] = "РџРѕСЃР»РµРґРЅР° >>";
+$lang['next_link'] = " РџСЂРµРґРёС€РЅР° ";
+$lang['prev_link'] = " РЎР»РµРґРІР°С‰Р° ";
 
 ?>
